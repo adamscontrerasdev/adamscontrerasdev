@@ -1,4 +1,6 @@
-![Fondo de perfil](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+<div>
+    <img src="https://images.pexels.com/photos/97077/pexels-photo-97077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"/>
+</div>
 
 
 # ¡Hola! 👋
