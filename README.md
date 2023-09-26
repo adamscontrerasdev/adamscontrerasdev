@@ -1,4 +1,4 @@
-![Fondo de perfil de LinkedI](https://media.licdn.com/dms/image/C4D16AQFA98HnKRu8IQ/profile-displaybackgroundimage-shrink_350_1400/0/1625160181888?e=1701302400&)
+![Fondo de perfil de LinkedI](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
 # ¡Hola! 👋
