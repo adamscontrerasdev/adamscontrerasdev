@@ -1,3 +1,7 @@
+<div id="header" align="center">
+<img src="https://giphy.com/embed/hTBdZxUHG2r0XwLFSL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+</div>
+
 # ¡Hola! 👋
 
 Soy Adams Contreras, un apasionado desarrollador web Full Stack con experiencia en Angular, Java y Spring Boot. Mi misión es crear aplicaciones web modernas y robustas que brinden soluciones efectivas a los desafíos tecnológicos.
