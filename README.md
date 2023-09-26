@@ -12,7 +12,7 @@ Actualmente, trabajo en proyectos que combinan la potencia de Angular para la in
 <div id="lenguajes">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="" srcset="" width="40" height="40">
 <img src="https://static.vecteezy.com/system/resources/previews/022/101/050/original/java-logo-transparent-free-png.png" alt="" srcset="" width="55" height="55">
-<img src="[https://www.armadilloamarillo.com/wp-content/uploads/spring-boot-ok.png](https://miro.medium.com/v2/resize:fit:1400/1*CIHazLUXhBCxiho2mE2glQ.png)" alt="" srcset="" width="auto" height="40">
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*CIHazLUXhBCxiho2mE2glQ.png" alt="" srcset="" width="auto" height="40">
 </div>
 
 ## Aprendizaje continuo 🚀
