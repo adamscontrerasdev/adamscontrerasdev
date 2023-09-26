@@ -9,8 +9,8 @@ Soy Adams Contreras, un apasionado desarrollador web Full Stack con experiencia 
 
 Actualmente, trabajo en proyectos que combinan la potencia de Angular para la interfaz de usuario con la escalabilidad de Java y la agilidad de Spring Boot en el backend. Mi enfoque se centra en la calidad del código, la arquitectura sólida y la entrega de productos de alta calidad.
 
-<div id="lenguajes">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="" srcset="">
+<div id="lenguajes" align="left">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="" srcset="" width="30" height="30">
 </div>
 
 ## Aprendizaje continuo 🚀
