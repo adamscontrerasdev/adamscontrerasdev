@@ -1,5 +1,5 @@
 <div>
-    <img src="https://images.pexels.com/photos/97077/pexels-photo-97077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="200px"/>
+    <img src="https://images.pexels.com/photos/97077/pexels-photo-97077.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" height="200px" width="100%"/>
 </div>
 
 
