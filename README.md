@@ -1,4 +1,4 @@
-![Ejemplo de GIF]([https://media.giphy.com/media/ejemplo-gif-url/giphy.gif](https://media.giphy.com/media/hTBdZxUHG2r0XwLFSL/giphy-downsized-large.gif))
+![Ejemplo de GIF](https://giphy.com/embed/hTBdZxUHG2r0XwLFSL)
 
 # ¡Hola! 👋
 
