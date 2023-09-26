@@ -1,4 +1,6 @@
-<iframe src="https://giphy.com/embed/UO5elnTqo4vSg" width="480" height="439" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/shaq-shimmy-UO5elnTqo4vSg">via GIPHY</a></p>
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/hTBdZxUHG2r0XwLFSL/giphy-downsized-large.gif" alt="" srcset="">
+</div>
 
 # ¡Hola! 👋
 
