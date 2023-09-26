@@ -1,7 +1,9 @@
 ![Fondo de perfil de LinkedI](https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 
-# ¡Hola! 👋
+<div id="header" align="center">
+    # ¡Hola! 👋
+</div>
 
 Soy Adams Contreras, un apasionado desarrollador web Full Stack con experiencia en Angular, Java y Spring Boot. Mi misión es crear aplicaciones web modernas y robustas que brinden soluciones efectivas a los desafíos tecnológicos.
 
