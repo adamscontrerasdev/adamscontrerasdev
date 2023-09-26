@@ -1,4 +1,5 @@
-![Ejemplo de GIF](https://giphy.com/embed/hTBdZxUHG2r0XwLFSL)
+![Fondo de perfil de LinkedIn](https://media.licdn.com/dms/image/C4D16AQFA98HnKRu8IQ/profile-displaybackgroundimage-shrink_350_1400/0/1625160181888?e=1701302400&
+
 
 # ¡Hola! 👋
 
