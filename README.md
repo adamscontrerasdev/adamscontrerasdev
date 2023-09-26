@@ -1,6 +1,4 @@
-<div id="header" align="center">
-    <img src="https://media.giphy.com/media/hTBdZxUHG2r0XwLFSL/giphy-downsized-large.gif" alt="" srcset="" width="200px">
-</div>
+![Ejemplo de GIF](https://media.giphy.com/media/ejemplo-gif-url/giphy.gif)
 
 # ¡Hola! 👋
 
